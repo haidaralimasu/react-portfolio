@@ -55,7 +55,6 @@ const ImageSectionStyled = styled.div`
         img{
             width: 95%;
             object-fit: cover;
-            height: 700px;
         }
     }
     .right-content{
