@@ -35,7 +35,7 @@ function HomePage() {
                     <a href="https://www.instagram.com/haidarali_masu" target="blank" className="icon i-instagram">
                         <InstagramIcon />
                     </a>
-                    <a href="www.linkedin.com/in/haidaralimasu" target="blank" className="icon i-linkedin">
+                    <a href="https://www.linkedin.com/in/haidaralimasu" target="blank" className="icon i-linkedin">
                         <LinkedInIcon />
                     </a>
                 </div>

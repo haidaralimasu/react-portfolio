@@ -33,7 +33,7 @@ function ImageSection() {
                         <p>: Freelance</p>
                     </div>
                 </div>
-                <a href="../resume/Haidarali.pdf"  download="Haidarali.pdf" target="blank"><PrimaryButton title={'Download Cv'} /></a>
+                <a href="../files/Haidarali.pdf" target="blank" download><PrimaryButton  title={'Download Cv'} /></a>
             </div>
         </ImageSectionStyled>
     )
