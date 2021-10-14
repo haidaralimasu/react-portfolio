@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components';
 import {NavLink} from 'react-router-dom';
-import avatar from '../img/avatar.svg';
+import avatar from '../img/avatar.png';
 
 function Navigation() {
     return (
