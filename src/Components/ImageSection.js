@@ -33,7 +33,7 @@ function ImageSection() {
                         <p>: Freelance</p>
                     </div>
                 </div>
-                <a href="../files/Haidarali.pdf" target="blank" download><PrimaryButton  title={'Download Cv'} /></a>
+                <a href="https://raw.githubusercontent.com/Haidar1528/react_portfolio/master/src/files/Haidarali.pdf" target="blank" download><PrimaryButton  title={'Download Cv'} /></a>
             </div>
         </ImageSectionStyled>
     )
