@@ -82,7 +82,7 @@ const HomePageStyled = styled.header`
                 }
             }
 
-            ..i-twitter{
+            .i-twitter{
                 &:hover{
                     border: 2px solid #1da1f2;
                     color: #1da1f2;
