@@ -57,7 +57,7 @@ const portfolios = [
         id: 6,
         category: 'React JS',
         image: covid,
-        link1: 'https://github.com/Haidar1528/covid_traker',
+        link1: 'https://github.com/Haidar1528/covid_tracker',
         title: 'Covid Tracker',
         text: 'React app to track covid cases'
     },
