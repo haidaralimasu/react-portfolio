@@ -13,7 +13,7 @@ function Menu({menuItem}) {
                                 <img src={item.image} alt=""/>
                                 <ul>
                                     <li>
-                                        <a href={item.link1}>
+                                        <a target="blank" href={item.link1}>
                                             <GitHub />
                                         </a>
                                     </li>
