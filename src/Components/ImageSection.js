@@ -28,7 +28,7 @@ function ImageSection() {
                         <p>: Haidarali Masu</p>
                         <p>: 19</p>
                         <p>: Indian </p>
-                        <p>: English, Hindi, Gujrati </p>
+                        <p>: English, Hindi </p>
                         <p>: Gujrat, India</p>
                         <p>: Freelance</p>
                     </div>
