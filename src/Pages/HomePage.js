@@ -23,7 +23,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Haidarali</span></h1>
                 <p>
-                   I am a fullstack webdeveloper and blockchain engineer who creates decentrailzed Web3.0 apps on ethereum blockchain using solidity. I also wite blogs on <a href="https://blog.kodinghandle.com" target="blank"><span>kodinghandle.com</span></a>
+                   I am a fullstack webdeveloper and blockchain engineer who creates decentrailzed Web3.0 apps on ethereum blockchain using solidity. I also wite blogs on <a href="https://blog.kodinghandle.com" target="blank"><span>blog.kodinghandle.com</span></a>
                 </p>
                 <div className="icons">
                     <a href="https://www.twitter.com/haidarali_masu" target="blank" className="icon i-twitter">
