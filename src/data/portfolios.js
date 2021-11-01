@@ -112,6 +112,14 @@ const portfolios = [
         title: 'A simple blockchain',
         text: 'go lang impelmentation of go lang'
     },
+    {
+        id: 13,
+        category: 'Blockchain',
+        image: nft,
+        link1: 'https://github.com/Haidar1528/golang_blockchain',
+        title: 'NFT Marketplace',
+        text: 'Fullstack NFT marketplace'
+    },
 
 
 
