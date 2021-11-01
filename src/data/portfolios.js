@@ -115,8 +115,8 @@ const portfolios = [
     {
         id: 13,
         category: 'Blockchain',
-        image: nft,
-        link1: 'https://github.com/Haidar1528/golang_blockchain',
+        image: ecommerce,
+        link1: 'https://github.com/Haidar1528/the_nfw',
         title: 'NFT Marketplace',
         text: 'Fullstack NFT marketplace'
     },
