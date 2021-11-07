@@ -16,7 +16,7 @@ const portfolios = [
         id: 1,
         category: 'Blockchain',
         image: imageshare,
-        link1: 'https://github.com/Haidar1528/image_share_blockchain',
+        link1: 'https://github.com/Haidar1528/react-truffle-img-sharing-app',
         title: 'Image Sharing Dapp',
         text: 'Created with truffle and react'
     },
@@ -24,7 +24,7 @@ const portfolios = [
         id: 2,
         category: 'Blockchain',
         image: defi,
-        link1: 'https://github.com/Haidar1528/brownie_defi',
+        link1: 'https://github.com/Haidar1528/react-truffle-img-sharing-app',
         title: 'Defi App',
         text: 'Defi app with brownie and react typescript'
     },
@@ -32,7 +32,7 @@ const portfolios = [
         id: 3,
         category: 'Blockchain',
         image: lottery,
-        link1: 'https://github.com/Haidar1528/brownie_lottery',
+        link1: 'https://github.com/Haidar1528/brownie-lottery',
         title: 'Lottery Smart Contracts',
         text: 'A Lottery smart contract made with brownie'
     },
@@ -40,7 +40,7 @@ const portfolios = [
         id: 4,
         category: 'Blockchain',
         image: nft,
-        link1: 'https://github.com/Haidar1528/nft_minting',
+        link1: 'https://github.com/Haidar1528/react-truffle-nft-minting',
         title: 'App to mint NFTs',
         text: 'A truffle project to mint NFTs'
     },
@@ -49,7 +49,7 @@ const portfolios = [
         id: 5,
         category: 'React JS',
         image: portfolio,
-        link1: 'https://github.com/Haidar1528/portfolio',
+        link1: 'https://github.com/Haidar1528/react-portfolio',
         title: 'React Portfolio',
         text: 'Portfolio website'
     },
@@ -57,7 +57,7 @@ const portfolios = [
         id: 6,
         category: 'React JS',
         image: covid,
-        link1: 'https://github.com/Haidar1528/covid_tracker',
+        link1: 'https://github.com/Haidar1528/react-covid-tracker',
         title: 'Covid Tracker',
         text: 'React app to track covid cases'
     },
@@ -65,7 +65,7 @@ const portfolios = [
         id: 7,
         category: 'React JS',
         image: bitcoin,
-        link1: 'https://github.com/BullCarter/bullcarter_webapp',
+        link1: 'https://github.com/Haidar1528/react-crypto-tracker',
         title: 'Crypto Tracker',
         text: 'React app to track Crypto price'
     },
@@ -74,7 +74,7 @@ const portfolios = [
         id: 8,
         category: 'Django',
         image: ecommerce,
-        link1: 'https://github.com/Haidar1528/ecommerce',
+        link1: 'https://github.com/Haidar1528/django-react-ecommerce',
         title: 'Ecommerce App',
         text: 'Fullstack ecommerce app'
     },
@@ -82,7 +82,7 @@ const portfolios = [
         id: 9,
         category: 'Django',
         image: blog,
-        link1: 'https://github.com/Haidar1528/koding_handle_blog_v2',
+        link1: 'https://github.com/Haidar1528/django-react-blog',
         title: 'Blog App',
         text: 'Fullstack blog website'
     },
@@ -90,7 +90,7 @@ const portfolios = [
         id: 10,
         category: 'Django',
         image: stok,
-        link1: 'https://github.com/Haidar1528/bullcarter_stock_market_app',
+        link1: 'https://github.com/Haidar1528/django-react-stock-app',
         title: 'Stock App',
         text: 'Fullstack stok market app'
     },
@@ -99,7 +99,7 @@ const portfolios = [
         id: 11,
         category: 'Python',
         image: aigame,
-        link1: 'https://github.com/Haidar1528/flappy_bird_ai',
+        link1: 'https://github.com/Haidar1528/python-auto-flappy-bird',
         title: 'Flappy bird AI game',
         text: 'Never losing AI game'
     },
@@ -108,7 +108,7 @@ const portfolios = [
         id: 12,
         category: 'Go lang',
         image: blockchain,
-        link1: 'https://github.com/Haidar1528/golang_blockchain',
+        link1: 'https://github.com/tensor-programming/golang-blockchain',
         title: 'A simple blockchain',
         text: 'go lang impelmentation of go lang'
     },
@@ -116,7 +116,7 @@ const portfolios = [
         id: 13,
         category: 'Blockchain',
         image: ecommerce,
-        link1: 'https://github.com/Haidar1528/the_nfw',
+        link1: 'https://github.com/Haidar1528/react-non-fungible-mall',
         title: 'NFT Marketplace',
         text: 'Fullstack NFT marketplace'
     },
