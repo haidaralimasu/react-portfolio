@@ -108,7 +108,7 @@ const portfolios = [
         id: 12,
         category: 'Go lang',
         image: blockchain,
-        link1: 'https://github.com/tensor-programming/golang-blockchain',
+        link1: 'https://github.com/Haidar1528/golang-blockchain',
         title: 'A simple blockchain',
         text: 'go lang impelmentation of go lang'
     },
