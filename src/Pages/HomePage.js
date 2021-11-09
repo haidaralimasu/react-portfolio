@@ -29,7 +29,7 @@ function HomePage() {
                     <a href="https://www.twitter.com/haidarali_masu" target="blank" className="icon i-twitter">
                         <TwitterIcon />
                     </a>
-                    <a href="https://www.github.com/Haidar1528" target="blank" className="icon i-github">
+                    <a href="https://www.github.com/haidaralimasu" target="blank" className="icon i-github">
                         <GithubIcon />
                     </a>
                     <a href="https://www.instagram.com/haidarali_masu" target="blank" className="icon i-instagram">
