@@ -39,7 +39,7 @@ function HomePage() {
                     <a href="https://www.linkedin.com/in/haidaralimasu" target="blank" className="icon i-linkedin">
                         <LinkedInIcon />
                     </a>
-                    <a href="https://www.upwork.com/freelancers/~01854654fa0c844ed0?s=1044578476142100518" target="blank" className="icon i-work">
+                    <a href="https://www.upwork.com/freelancers/~01854654fa0c844ed0" target="blank" className="icon i-work">
                         <WorkIcon />
                     </a>
                 </div>
