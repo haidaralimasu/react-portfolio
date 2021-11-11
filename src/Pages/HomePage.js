@@ -39,7 +39,7 @@ function HomePage() {
                     <a href="https://www.linkedin.com/in/haidaralimasu" target="blank" className="icon i-linkedin">
                         <LinkedInIcon />
                     </a>
-                    <a href="https://www.linkedin.com/in/haidaralimasu" target="blank" className="icon i-linkedin">
+                    <a href="https://www.upwork.com/freelancers/~01854654fa0c844ed0?s=1044578476142100518" target="blank" className="icon i-work">
                         <WorkIcon />
                     </a>
                 </div>
@@ -108,6 +108,12 @@ const HomePageStyled = styled.header`
                 &:hover{
                     border: 2px solid #00a0dc;
                     color: #00a0dc;
+                }
+            }
+            .i-work{
+                &:hover{
+                    border: 2px solid #14a800;
+                    color: #14a800;
                 }
             }
         }
