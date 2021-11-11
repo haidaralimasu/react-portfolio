@@ -4,6 +4,7 @@ import TwitterIcon from '@material-ui/icons/Twitter';
 import GithubIcon from '@material-ui/icons/GitHub';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
+import WorkIcon from '@material-ui/icons/Work';
 import Particle from '../Components/Particle';
 import {Helmet} from "react-helmet";
 
@@ -37,6 +38,9 @@ function HomePage() {
                     </a>
                     <a href="https://www.linkedin.com/in/haidaralimasu" target="blank" className="icon i-linkedin">
                         <LinkedInIcon />
+                    </a>
+                    <a href="https://www.linkedin.com/in/haidaralimasu" target="blank" className="icon i-linkedin">
+                        <WorkIcon />
                     </a>
                 </div>
             </div>
