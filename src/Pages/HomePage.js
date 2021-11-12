@@ -4,7 +4,6 @@ import TwitterIcon from '@material-ui/icons/Twitter';
 import GithubIcon from '@material-ui/icons/GitHub';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
-import WorkIcon from '@material-ui/icons/Work';
 import { SiStackoverflow } from "react-icons/si";
 import Particle from '../Components/Particle';
 import {Helmet} from "react-helmet";
