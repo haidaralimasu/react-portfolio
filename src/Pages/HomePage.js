@@ -5,6 +5,7 @@ import GithubIcon from '@material-ui/icons/GitHub';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import WorkIcon from '@material-ui/icons/Work';
+import { SiStackoverflow } from "react-icons/si";
 import Particle from '../Components/Particle';
 import {Helmet} from "react-helmet";
 
@@ -40,7 +41,7 @@ function HomePage() {
                         <LinkedInIcon />
                     </a>
                     <a href="https://www.upwork.com/freelancers/~01854654fa0c844ed0" target="blank" className="icon i-work">
-                        <WorkIcon />
+                        <SiStackoverflow />
                     </a>
                 </div>
             </div>
